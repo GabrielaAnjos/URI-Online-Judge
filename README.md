@@ -1,6 +1,6 @@
 # URI-Online-Judge
 
-Exercícios do URI Online Judge que estou fazendo para treinar lógica de programação e algumas linguagens.
+My URI Online Judge solutions.
 
 ## Java
 | Subdomain	| Challenge	| Problem	| Difficulty | Solution |
