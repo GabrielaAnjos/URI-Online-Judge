@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Faça um programa que leia um vetor N[20].
  * Troque a seguir, o primeiro elemento com o último, o segundo elemento com o penúltimo, etc.,
@@ -14,8 +14,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1175TrocaEmVetorI {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int[] N = new int[20];

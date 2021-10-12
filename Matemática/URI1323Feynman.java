@@ -1,4 +1,4 @@
-package urijudge.desafios.matematica;
+﻿package urijudge.desafios.matematica;
 /**
  * Richard Phillips Feynman era um físico americano muito famoso e ganhador do Prêmio Nobel de Física.
  * Ele trabalhava em física teórica e também foi pioneiro no campo da computação quântica.
@@ -27,8 +27,9 @@ package urijudge.desafios.matematica;
 
 import java.util.Scanner;
 
-public class URI1323Feynman {
+public class Main {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         int N;

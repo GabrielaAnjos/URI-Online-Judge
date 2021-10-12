@@ -1,4 +1,4 @@
-package urijudge.desafios.matematica;
+﻿package urijudge.desafios.matematica;
 /**
  * Anastácia adora construir pipas (ou pandorgas) para seus amigos.
  * Pedro, que sabe disso, separou vários retalhos de bambus
@@ -23,8 +23,9 @@ package urijudge.desafios.matematica;
 
 import java.util.Scanner;
 
-public class URI1585FazendoPandorgas {
+public class Main {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         int N = input.nextInt();

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
@@ -17,7 +17,8 @@ import java.util.Scanner;
  * caso contrário seu programa apresentará a mensagem: “Presentation Error”.
  */
 
-public class URI1018Cedulas {
+public class Main {
+
     public static void main(String[] args) {
 
                 Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor e faça um programa que coloque o valor lido na
  * primeira posição de um vetor N[10]. Em cada posição subsequente,
@@ -17,8 +17,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1173PreenchimentoDeVetor {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int[] N = new int[10];

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 3 valores inteiros e ordene-os em ordem crescente.
  * No final, mostre os valores em ordem crescente, uma linha em branco
@@ -13,7 +13,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1042SortSimples {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

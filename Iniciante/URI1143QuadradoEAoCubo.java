@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Escreva um programa que leia um valor inteiro N (1 < N < 1000).
  * Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
@@ -12,8 +12,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1143QuadradoEAoCubo {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();

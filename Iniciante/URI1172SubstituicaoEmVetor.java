@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Faça um programa que leia um vetor X[10].
  * Substitua a seguir, todos os valores nulos e negativos do vetor X por 1.
@@ -14,8 +14,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1172SubstituicaoEmVetor {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int X[] = new int[10];

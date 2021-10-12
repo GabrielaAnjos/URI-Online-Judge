@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor inteiro correspondente à idade de uma pessoa em dias
  * e informe-a em anos, meses e dias
@@ -16,7 +16,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1020IdadeEmDias {
+public class Main {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

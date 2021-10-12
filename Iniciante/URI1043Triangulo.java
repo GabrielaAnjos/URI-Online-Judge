@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 3 valores reais (A, B e C) e verifique se eles formam ou não um triângulo.
  * Em caso positivo, calcule o perímetro do triângulo e apresente a mensagem:
@@ -19,7 +19,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1043Triangulo {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

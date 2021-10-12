@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Faça um programa que leia um valor N. Este N será o tamanho de um vetor X[N].
  * A seguir, leia cada um dos valores de X, encontre o menor elemento deste vetor
@@ -19,8 +19,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1180MenorEPosicao {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();

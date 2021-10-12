@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 2 valores inteiros (A e B).
  * Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos",
@@ -13,7 +13,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1044Multiplos {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

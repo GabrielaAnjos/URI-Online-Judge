@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 2 valores com uma casa decimal (x e y), que devem representar
  * as coordenadas de um ponto em um plano.
@@ -18,7 +18,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1041CoordenadasDeUmPonto {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

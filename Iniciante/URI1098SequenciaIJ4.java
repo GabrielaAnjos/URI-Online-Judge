@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * I=0 J=1
  * I=0 J=2
@@ -14,8 +14,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1098SequenciaIJ4 {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         double i=0, j=1;

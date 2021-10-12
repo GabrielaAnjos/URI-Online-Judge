@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  *Escreva um programa que leia 2 valores X e Y e que imprima todos os valores
  * entre eles cujo resto da divisão dele por 5 for igual a 2 ou igual a 3.
@@ -13,8 +13,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1133RestoDaDivisao {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int x = sc.nextInt();

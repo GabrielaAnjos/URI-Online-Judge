@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 3 valores de ponto flutuante A, B e C e ordene-os em ordem decrescente,
  * de modo que o lado A representa o maior dos 3 lados.
@@ -21,8 +21,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1045TiposDeTriangulos {
+public class Main {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         double A = input.nextDouble();

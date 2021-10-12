@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
  *
@@ -16,7 +16,7 @@ package urijudge.desafios.iniciante;
 import java.util.Scanner;
 // import java.text.DecimalFormat;
 
-public class URI1048AumentoDeSalario {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

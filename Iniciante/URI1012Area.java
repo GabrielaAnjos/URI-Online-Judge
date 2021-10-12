@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C.
  * Em seguida, calcule e mostre:
@@ -19,7 +19,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1012Area {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

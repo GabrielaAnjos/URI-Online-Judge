@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 100 valores inteiros.
  * Apresente então o maior valor lido e a posição dentre os 100 valores lidos.
@@ -12,8 +12,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1080MaiorEPosicao {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int valor;

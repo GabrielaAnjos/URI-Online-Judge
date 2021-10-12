@@ -1,4 +1,4 @@
-package urijudge.desafios.matematica;
+﻿package urijudge.desafios.matematica;
 /**
  * Hashmat é um guerreiro cujo seu grupo de soldados se move
  * de um local a outro para lutar contra os seus oponentes.
@@ -20,7 +20,7 @@ package urijudge.desafios.matematica;
 
 import java.util.Scanner;
 
-public class URI1198OBravoGuerreiroHashmat {
+public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

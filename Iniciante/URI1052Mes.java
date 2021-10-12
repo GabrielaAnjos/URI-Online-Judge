@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor inteiro entre 1 e 12, inclusive.
  * Correspondente a este valor, deve ser apresentado como resposta o mês do ano por extenso,
@@ -15,9 +15,10 @@ package urijudge.desafios.iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class URI1052Mes {
+public class Main {
     public static void main(String[] args) throws IOException {
-        Scanner input = new Scanner(System.in);
+        
+	Scanner input = new Scanner(System.in);
 
         int valor = input.nextInt();
 

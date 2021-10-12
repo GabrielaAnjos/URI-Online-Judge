@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * A seguinte sequência de números 0 1 1 2 3 5 8 13 21...
  * é conhecida como série de Fibonacci. Nessa sequência, cada número,
@@ -16,8 +16,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1151FibonacciFacil {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();

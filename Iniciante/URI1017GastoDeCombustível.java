@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 /**
  * Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L.
@@ -17,7 +17,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1017GastoDeCombustível {
+public class Main {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

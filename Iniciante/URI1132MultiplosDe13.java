@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Escreva um algoritmo que leia 2 valores inteiros X e Y
  * calcule a soma dos números que não são múltiplos de 13 entre X e Y, incluindo ambos.
@@ -13,8 +13,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1132MultiplosDe13 {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int x = sc.nextInt();

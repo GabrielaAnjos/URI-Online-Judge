@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Faça um programa que leia as notas referentes às duas avaliações de um aluno.
  * Calcule e imprima a média semestral. Faça com que o algoritmo só aceite notas válidas
@@ -16,8 +16,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1117ValidacaoDeNota {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         double nota1=-1, nota2=-1;

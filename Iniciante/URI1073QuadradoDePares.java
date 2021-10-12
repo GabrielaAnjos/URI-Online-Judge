@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor inteiro N. Apresente o quadrado de cada um dos valores pares,
  * de 1 até N, inclusive N, se for o caso.
@@ -16,7 +16,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1073QuadradoDePares {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

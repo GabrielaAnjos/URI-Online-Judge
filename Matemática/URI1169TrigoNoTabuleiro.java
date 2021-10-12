@@ -1,4 +1,4 @@
-package urijudge.desafios.matematica;
+﻿package urijudge.desafios.matematica;
 /**
  * Uma rainha requisitou os serviços de um monge e disse-lhe que pagaria qualquer preço.
  * O monge, necessitando de alimentos, perguntou a rainha se o pagamento poderia ser feito
@@ -24,7 +24,7 @@ package urijudge.desafios.matematica;
 
 import java.util.Scanner;
 
-public class URI1169TrigoNoTabuleiro {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

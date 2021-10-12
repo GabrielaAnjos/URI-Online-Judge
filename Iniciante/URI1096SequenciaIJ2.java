@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Você deve fazer um programa que apresente a sequencia conforme o exemplo abaixo.
  *
@@ -21,8 +21,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1096SequenciaIJ2 {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int i=1;

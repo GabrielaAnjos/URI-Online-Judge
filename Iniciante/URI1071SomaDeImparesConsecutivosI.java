@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 2 valores inteiros X e Y.
  * A seguir, calcule e mostre a soma dos números impares entre eles.
@@ -13,7 +13,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1071SomaDeImparesConsecutivosI {
+public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

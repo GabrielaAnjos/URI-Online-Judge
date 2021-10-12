@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 /**
  * Leia um número inteiro que representa um código de DDD para discagem interurbana.
@@ -17,8 +17,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1050DDD {
+public class Main {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         int num = input.nextInt();

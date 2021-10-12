@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor inteiro X.
  * Em seguida apresente os 6 valores ímpares consecutivos a partir de X,
@@ -13,8 +13,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1070SeisNumerosImpares {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int x = sc.nextInt();

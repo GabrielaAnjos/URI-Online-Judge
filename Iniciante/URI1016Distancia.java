@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Dois carros (X e Y) partem em uma mesma direção.
  * O carro X sai com velocidade constante de 60 Km/h
@@ -19,7 +19,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1016Distancia {
+public class Main {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

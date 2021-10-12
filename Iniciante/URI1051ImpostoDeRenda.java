@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes
  * em pagar seus impostos, pois sabem que nele não existem políticos corruptos
@@ -24,7 +24,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1051ImpostoDeRenda {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

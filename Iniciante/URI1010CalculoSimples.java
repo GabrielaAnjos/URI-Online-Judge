@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 /**
  * Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1,
@@ -17,7 +17,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1010CalculoSimples {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

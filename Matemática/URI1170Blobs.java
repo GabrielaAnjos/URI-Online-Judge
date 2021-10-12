@@ -1,4 +1,4 @@
-package urijudge.desafios.matematica;
+﻿package urijudge.desafios.matematica;
 /**
  * No planeta Alpha vive a criatura Blobs, que come precisamente 1/2 de seu suprimento de comida disponível todos os dias.
  * Escreva um algoritmo que leia a capacidade inicial de suprimento de comida (em Kg),
@@ -16,7 +16,7 @@ package urijudge.desafios.matematica;
 
 import java.util.Scanner;
 
-public class URI1170Blobs {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

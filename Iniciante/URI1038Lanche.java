@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Com base na tabela abaixo, escreva um programa que leia o código de um item
  * e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
@@ -13,7 +13,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1038Lanche {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km)
  * e o total de combustível gasto (em litros).
@@ -15,7 +15,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1014Consumo {
+public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

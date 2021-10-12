@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 1 valor inteiro N (2 < N < 1000).
  * A seguir, mostre a tabuada de N:
@@ -14,8 +14,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1078Tabuada {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();

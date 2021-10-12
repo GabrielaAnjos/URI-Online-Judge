@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Um Posto de combustíveis deseja determinar qual
  * de seus produtos tem a preferência de seus clientes.
@@ -18,8 +18,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1134TipoDeCombustivel {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int tipo = 0;

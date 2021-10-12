@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Você deve fazer um programa que leia um valor qualquer
  * e apresente uma mensagem dizendo em qual dos seguintes intervalos
@@ -19,7 +19,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1037Intervalo {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

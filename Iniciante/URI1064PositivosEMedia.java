@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 6 valores. Em seguida, mostre quantos destes valores digitados foram positivos.
  * Na próxima linha, deve-se mostrar a média de todos os valores positivos digitados,
@@ -15,7 +15,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1064PositivosEMedia {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Escreva um programa que repita a leitura de uma senha até que ela seja válida.
  * Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida".
@@ -14,8 +14,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1114SenhaFixa {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int x, stop=1;

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Ultimamente, diversas pessoas estão indo à Dra. Cláudia Café com Leite para saber se
  * estão consumindo a quantidade recomendada diária de vitamina C.
@@ -34,8 +34,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI2486CMaisOuMenos {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int T = 1;

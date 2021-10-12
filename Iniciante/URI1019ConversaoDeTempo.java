@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor inteiro, que é o tempo de duração em segundos de um
  * determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
@@ -13,7 +13,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1019ConversaoDeTempo {
+public class Main {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

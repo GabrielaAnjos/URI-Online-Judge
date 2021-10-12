@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores
  * e atribua esta operação à variável PROD.
@@ -15,7 +15,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1004ProdutoSimples {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Todo ano, Roberto gosta de escolher a sua árvore de natal, ele não deixa ninguém escolher para ele,
  * pois ele acha que a árvore para ser bonita, deve satisfazer algumas condições,
@@ -21,8 +21,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI3040AArvoreDeNatal {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();

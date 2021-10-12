@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia a hora inicial e a hora final de um jogo.
  * A seguir calcule a duração do jogo, sabendo que o mesmo pode começar
@@ -13,7 +13,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1046TempoDeJogo {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

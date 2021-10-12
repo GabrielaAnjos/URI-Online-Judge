@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seguir.
  * Cada caso de teste consiste de 3 valores reais, cada um deles com uma casa decimal.
@@ -15,8 +15,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1079MediasPonderadas {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();

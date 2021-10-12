@@ -1,4 +1,4 @@
-package urijudge.desafios.matematica;
+﻿package urijudge.desafios.matematica;
 /**
  * Leia dois valores inteiros M e N indefinidamente. A cada leitura, calcule e escreva a soma dos fatoriais de cada um dos valores lidos.
  * Utilize uma variável apropriada, pois cálculo pode resultar em um valor com mais de 15 dígitos.
@@ -14,8 +14,9 @@ package urijudge.desafios.matematica;
 
 import java.util.Scanner;
 
-public class URI1161SomaDeFatoriais {
+public class Main {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         while (input.hasNext()){

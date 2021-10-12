@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor inteiro N.
  * Este valor será a quantidade de valores que serão lidos em seguida.
@@ -20,7 +20,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1074ParOuImpar {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

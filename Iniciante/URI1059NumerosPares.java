@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 /**
  * Faça um programa que mostre os números pares entre 1 e 100, inclusive.
@@ -10,7 +10,7 @@ package urijudge.desafios.iniciante;
  * Imprima todos os números pares entre 1 e 100, inclusive se for o caso, um em cada linha.
  */
 
-public class URI1059NumerosPares {
+public class Main {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 100 ; i++) {

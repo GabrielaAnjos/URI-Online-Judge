@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um conjunto não determinado de pares de valores M e N
  * (parar quando algum dos valores for menor ou igual a zero).
@@ -16,8 +16,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1101SequenciaDeNumerosESoma {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int m, n, aux, stop=1, soma=0;

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
@@ -18,7 +18,8 @@ import java.util.Scanner;
  * não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
  */
 
-public class URI1005Media1 {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

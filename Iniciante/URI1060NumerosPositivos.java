@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Faça um programa que leia 6 valores.
  * Estes valores serão somente negativos ou positivos (desconsidere os valores nulos).
@@ -13,7 +13,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1060NumerosPositivos {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

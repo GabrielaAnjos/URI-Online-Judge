@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia um valor inteiro N que é a quantidade de casos de teste que vem a seguir.
  * Cada caso de teste consiste de dois inteiros X e Y.
@@ -15,8 +15,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1099SomaDeImparesConsecutivosII {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema,
  * da esquerda para a direita.  Em seguida conclua qual dos animais seguintes foi escolhido,
@@ -14,7 +14,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1049Animal {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia quatro números (N1, N2, N3, N4), cada um deles com uma casa decimal, correspondente às quatro notas de um aluno.
  * Calcule a média com pesos 2, 3, 4 e 1, respectivamente, para cada uma destas notas
@@ -27,7 +27,7 @@ package urijudge.desafios.iniciante;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class URI1040Media3 {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ import java.util.Scanner;
  * Mostre a respectiva mensagem após a validação dos valores.
  */
 
-public class URI1035TesteDeSelecao1 {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2)
  * e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula, segundo a fórmula:
@@ -16,7 +16,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1015DistEntreDoisPontos {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

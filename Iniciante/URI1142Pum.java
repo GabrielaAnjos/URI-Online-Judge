@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Escreva um programa que leia um valor inteiro N.
  * Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
@@ -12,7 +12,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1142Pum {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

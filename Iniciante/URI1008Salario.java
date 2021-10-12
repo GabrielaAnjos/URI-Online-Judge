@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ import java.util.Scanner;
  * com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
  */
 
-public class URI1008Salario {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

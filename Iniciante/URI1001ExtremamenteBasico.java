@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 /**
  * Leia 2 valores inteiros e armazene-os nas variáveis A e B.
@@ -17,7 +17,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1001ExtremamenteBasico {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

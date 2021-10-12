@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia 5 valores Inteiros.
  * A seguir mostre quantos valores digitados foram pares,
@@ -15,7 +15,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1066ParesImparesPositivosENegativos {
+public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ import java.util.Scanner;
  *
  * Obs: Utilize ponto (.) para separar a parte decimal.
  */
-public class URI1021NotasEMoedas {
+public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

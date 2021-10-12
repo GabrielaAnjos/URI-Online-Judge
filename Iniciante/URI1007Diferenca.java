@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  *Leia quatro valores inteiros A, B, C e D.
  * A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D
@@ -14,7 +14,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1007Diferenca {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

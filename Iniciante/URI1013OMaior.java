@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Faça um programa que leia três valores e apresente o maior dos três valores
  * lidos seguido da mensagem “eh o maior”. Utilize a fórmula.
@@ -15,7 +15,7 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1013OMaior {
+public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

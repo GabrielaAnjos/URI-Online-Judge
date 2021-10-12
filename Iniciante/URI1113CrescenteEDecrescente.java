@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Leia uma quantidade indeterminada de duplas de valores inteiros X e Y.
  * Escreva para cada X e Y uma mensagem que indique se
@@ -15,8 +15,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1113CrescenteEDecrescente {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int x, y, stop=1;

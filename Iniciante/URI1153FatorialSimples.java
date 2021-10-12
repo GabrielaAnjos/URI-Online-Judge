@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Ler um valor N. Calcular e escrever seu respectivo fatorial.
  * Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1.
@@ -12,8 +12,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1153FatorialSimples {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();

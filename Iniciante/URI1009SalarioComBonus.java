@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Faça um programa que leia o nome de um vendedor, o seu salário fixo
  * e o total de vendas efetuadas por ele no mês (em dinheiro).
@@ -17,7 +17,8 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1009SalarioComBonus {
+public class Main {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

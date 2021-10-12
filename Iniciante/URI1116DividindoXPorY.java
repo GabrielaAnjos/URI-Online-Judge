@@ -1,4 +1,4 @@
-package urijudge.desafios.iniciante;
+﻿package urijudge.desafios.iniciante;
 /**
  * Escreva um algoritmo que leia 2 números e imprima o resultado da divisão do primeiro pelo segundo.
  * Caso não for possível mostre a mensagem “divisao impossivel” para os valores em questão.
@@ -17,8 +17,9 @@ package urijudge.desafios.iniciante;
 
 import java.util.Scanner;
 
-public class URI1116DividindoXPorY {
+public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
